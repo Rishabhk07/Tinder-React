@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 2px;
+}
+.col-flex {
+  align-self: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.ig-img {
+  height: auto;
+  width: auto;
+  max-width: 320px;
+  max-height: auto;
+}
+
+.ig-image-container {
+}
